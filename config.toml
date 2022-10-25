@@ -12,9 +12,9 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  name = "Luigi"
+  name = "Luigi Guevara"
   headline = "Personal contact links"
-  image = "https://gravatar.com/avatar/189551984acc5cf225a272c2cea011bd?r=g&s=300&d=https%3A%2F%2Fk99.io%2Favatar.jpg"
+  image = "https://gravatar.com/avatar/189551984acc5cf225a272c2cea011bd?r=g&s=300"
 
   links = [
     { link = { href = "https://killua.me/", text = "Blog" } },
