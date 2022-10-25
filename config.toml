@@ -1,0 +1,27 @@
+baseURL = 'https://k99.io/links/'
+languageCode = 'en'
+defaultContentLanguage = "en"
+title = 'K99 Links'
+theme = 'lynx'
+
+[params]
+  description = "Personal contact links"
+  robots = "nofollow"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Luigi"
+  headline = "Personal contact links"
+  image = "https://gravatar.com/avatar/189551984acc5cf225a272c2cea011bd?r=g&s=300&d=https%3A%2F%2Fk99.io%2Favatar.jpg"
+
+  links = [
+    { link = { href = "https://killua.me/", text = "Blog" } },
+    { spotify = { href = "https://open.spotify.com/show/3BRJIw03inmV8SN9gRl6oM?si=p3K5I21vTjyAROsIWZ2skA", text = "Ahora papá en Casa - Spotify" } },
+    { apple = { href = "https://podcasts.apple.com/us/podcast/ahora-pap%C3%A1-en-casa/id1477769235?mt=2&app=podcast", text = "Ahora papá en Casa - Apple Podcast" } },
+    { soundcloud = { href = "https://podcasts.apple.com/us/podcast/ahora-pap%C3%A1-en-casa/id1477769235?mt=2&app=podcast", text = "Ahora papá en Casa - Soundcloud" } },
+    { github = "https://github.com/killua99" },
+    { twitter = "https://twitter.com/killua99" },
+    { mastodon = "https://social.linux.pizza/@killua99" }
+  ]

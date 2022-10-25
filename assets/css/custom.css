@@ -1,0 +1,8 @@
+.link-spotify {
+  background: #1DB954;
+  background: linear-gradient(
+    90deg,
+    #1DB954 20%,
+    #000000 100%
+  );
+}
