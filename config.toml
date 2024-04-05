@@ -20,8 +20,8 @@ disableKinds = ["taxonomy", "term"]
     { link = { href = "https://killua.me/", text = "Blog" } },
     { spotify = { href = "https://open.spotify.com/show/3BRJIw03inmV8SN9gRl6oM?si=p3K5I21vTjyAROsIWZ2skA", text = "Ahora papá en Casa - Spotify" } },
     { apple = { href = "https://podcasts.apple.com/us/podcast/ahora-pap%C3%A1-en-casa/id1477769235?mt=2&app=podcast", text = "Ahora papá en Casa - Apple Podcast" } },
-    { soundcloud = { href = "https://podcasts.apple.com/us/podcast/ahora-pap%C3%A1-en-casa/id1477769235?mt=2&app=podcast", text = "Ahora papá en Casa - Soundcloud" } },
+    { soundcloud = { href = "https://soundcloud.com/killua_99/sets/ahora-papa-en-casa", text = "Ahora papá en Casa - Soundcloud" } },
     { github = "https://github.com/killua99" },
-    { twitter = "https://twitter.com/killua99" },
-    { mastodon = "https://social.linux.pizza/@killua99" }
+    { mastodon = "https://social.linux.pizza/@killua99" },
+    { twitter = "https://twitter.com/killua99" }
   ]
